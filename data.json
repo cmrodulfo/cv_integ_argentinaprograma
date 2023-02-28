@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Pascual",
+                "last": "Leyva"
+            },
+            "location": {
+                "street": {
+                    "number": 5725,
+                    "name": "Peatonal Norte Jurado"
+                },
+                "city": "Pinos",
+                "state": "Michoacan",
+                "country": "Mexico",
+                "postcode": 92006,
+                "coordinates": {
+                    "latitude": "-75.4330",
+                    "longitude": "-104.2230"
+                },
+                "timezone": {
+                    "offset": "+5:00",
+                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                }
+            },
+            "email": "pascual.leyva@example.com",
+            "login": {
+                "uuid": "c7b9b97e-5d63-4d3e-8631-fccffd50e3f3",
+                "username": "bluebutterfly983",
+                "password": "giraffe",
+                "salt": "t2zmYm5W",
+                "md5": "2e2e37dfd11fa491d262f64c256ab84c",
+                "sha1": "1bc7d1ced51a4071b2628a51f2ea32cad4b7c44a",
+                "sha256": "c787b3cf0d579e49ac0bfe1a9c1ec746514b28bfc9970e643c8e8254b22d1c87"
+            },
+            "dob": {
+                "date": "1988-10-04T16:05:32.165Z",
+                "age": 34
+            },
+            "registered": {
+                "date": "2018-04-14T09:17:05.016Z",
+                "age": 4
+            },
+            "phone": "(698) 309 2925",
+            "cell": "(649) 413 7365",
+            "id": {
+                "name": "NSS",
+                "value": "82 22 50 8432 5"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/95.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+            },
+            "nat": "MX"
+        }
+    ],
+    "info": {
+        "seed": "760cd4c1c02ea774",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
