@@ -1,10 +1,50 @@
-*{
+* {
     font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
 }
+
+.caratula {
+
+    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)),
+        url("/img/fondo_inicio.jpg");
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    padding: 50px;
+}
+
+.caratula .contenido-caratula{
+    padding: 30px;
+}
+
+.titulo {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+
+
+}
+
+.dropdown {
+    position: fixed;
+    
+    
+}
+
 #icons {
     font-size: 2rem;
 }
 
 #apellido {
     color: chocolate;
+}
+
+#titulo {
+
+    text-align: center;
+    margin-top: auto;
+
+    color: white;
 }
